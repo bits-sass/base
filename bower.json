@@ -1,0 +1,9 @@
+{
+  "name": "bits-css-base",
+  "version": "0.1.0",
+  "author": "Lukáš Mladý",
+  "main": "_base.scss",
+  "dependencies": {
+    "normalize-css": "*"
+  }
+}
