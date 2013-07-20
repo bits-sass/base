@@ -1,6 +1,6 @@
 {
-  "name": "bits-scss-base",
-  "version": "0.1.1",
+  "name": "bits-sass-base",
+  "version": "0.1.2",
   "author": "Lukáš Mladý",
   "main": "_base.scss",
   "dependencies": {

@@ -1,22 +1,22 @@
-# Bits.scss base
+# Bits.sass base
 
 A thin base on top of normalize.css.
 
-Read more about [Bits.scss toolkit](https://github.com/bits-scss/bits.scss).
+Read more about [Bits.sass toolkit](https://github.com/bits-sass/bits.sass).
 
 ## Installation
 
-* __Bower:__ `bower install --save bits-scss-base`
-* __Download:__ [zip](https://github.com/bits-scss/base/zipball/master), [tar.gz](https://github.com/bits-scss/base/tarball/master)
-* __Git:__ `git clone https://github.com/bits-scss/base.git`
+* __Bower:__ `bower install --save bits-sass-base`
+* __Download:__ [zip](https://github.com/bits-sass/base/zipball/master), [tar.gz](https://github.com/bits-sass/base/tarball/master)
+* __Git:__ `git clone https://github.com/bits-sass/base.git`
 
 ## Usage
 
-`bits-scss-base` depends on normalize.css and should be included before any other package:
+`bits-sass-base` depends on normalize.css and should be included before any other package:
 
 ```scss
 @import "/bower_components/normalize-css/normalize.css";
-@import "/bower_components/bits-scss-base/base";
+@import "/bower_components/bits-sass-base/base";
 ```
 
 ## Requirements
