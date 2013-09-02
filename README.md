@@ -15,7 +15,7 @@ Read more about [Bits.sass toolkit](https://github.com/bits-sass/bits.sass).
 `bits-sass-base` depends on normalize.css and should be included before any other package:
 
 ```scss
-@import "/bower_components/normalize-css/normalize.css";
+@import "/bower_components/normalize-css/normalize.scss";
 @import "/bower_components/bits-sass-base/base";
 ```
 
